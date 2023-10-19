@@ -1,4 +1,4 @@
-# coep
+# Travelogy
 
 A new Flutter project.
 
